@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is [Leonardo Henrique Ferreira](https://leonardohenriqueferreira.com/) and I'm from Brazil.
+
+### About:
+#### I'm currently working with:
+- [PHP](https://www.php.net/).
+- JavaScript, HTML and CSS.
+- Database with [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/) and [Oracle](https://www.oracle.com/br/database/).
+#### I'm currently learning [Symfony](https://symfony.com/) Framework, [Node.js](https://nodejs.org/en/) and [Angular](https://angular.io/).
+
 <!--
 **leonardohenriqueferreira/leonardohenriqueferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
